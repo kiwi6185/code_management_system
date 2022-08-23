@@ -1,0 +1,36 @@
+{
+  "header": {
+    "comment": "eric tasks file for project lsx25-7-1",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2022-07-04, 14:49:25"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1656915432.915877,
+      "type": 2,
+      "uid": "{f378bb8f-a370-4aea-baaa-00f96c3ed6f8}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "C:\\Users\\30675\\Desktop\\\u8ba1\u79d11-025-\u674e\u601d\u6b23-\u5b9e\u8bad-v3.0\\Ui_MainWindow.py"
+    },
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1656915432.9178762,
+      "type": 2,
+      "uid": "{4f6b295d-b244-4add-a62a-767000d03f80}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "C:\\Users\\30675\\Desktop\\\u8ba1\u79d11-025-\u674e\u601d\u6b23-\u5b9e\u8bad-v3.0\\Ui_QWDialogData.py"
+    }
+  ]
+}
